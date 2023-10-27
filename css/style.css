@@ -1,0 +1,7 @@
+*{
+  box-sizing: border-box;
+}
+.wrapper{
+width: 1440px;
+border: 2px solid red;
+}
