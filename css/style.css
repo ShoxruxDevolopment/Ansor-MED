@@ -6,3 +6,6 @@ width: 1440px;
 padding-top: auto;
 /* border: 2px solid red; */
 }
+html{
+  scroll-behavior: smooth;
+}
