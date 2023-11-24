@@ -26,6 +26,7 @@ margin-right: 0;
   color: #222222;
   line-height: 21px;
   letter-spacing: 2px;
+  font-weight: bold;
   font-family: "Open Sans", sans-serif;
   text-transform: uppercase;
 
@@ -76,4 +77,8 @@ cursor: pointer;
   background-color: #FFFFFF;
   color:#DE2E54;
   cursor: pointer;
+}
+.ctn-bottom{
+
+  text-decoration: none;
 }
